@@ -1,0 +1,12 @@
+{
+    "hebbian": {
+        "selam": "sohbet",
+        "adın ne": "sohbet",
+        "adîn ne": "sohbet",
+        "pip install --upgrade pip setuptools wheel": "sohbet",
+        "pip install huggingface-hub --no-cache-dir": "sohbet",
+        "\u001b[f": "sohbet",
+        "": "sohbet"
+    },
+    "induction": {}
+}
